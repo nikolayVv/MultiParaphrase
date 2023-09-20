@@ -1,0 +1,44 @@
+# Corpus scores
+1: 0.588
+2: 0.291
+# Paraphrase scores
+1: 0.840 Tom arbeitet gewöhnlich von neun bis halb sechs. ||| Tom arbeitet gewöhnlich von 9 Uhr bis 5.30 Uhr.
+1: 0.188 La konstruejan lifton oni devas ripari. ||| Der Bauaufzug muss repariert werden.
+1: 0.778 Cidre, bitte. ||| Apfelwein, bitte.
+1: 0.960 In dem Haus wohnen zwei Familien. ||| Zwei Familien wohnen im Haus.
+2: 0.034 Im Grunde “Pfeil” in diesem Indikator wird für die erstellte “ausbrechen”. ||| Im Grunde wird in diesem Indikator für den Breakout erzeugt.
+2: 0.608 Der Gipfel zwischen der Europäischen Union, Lateinamerika und den Karibikstaaten findet in Guadalajara (Mexiko) statt. ||| Ein Gipfeltreffen der Europäischen Union - Lateinamerika und der Karibik findet in Guadalajara, Mexiko, statt.
+2: 0.680 Hier finden Sie unsere Exam Angebote InfoSec und nehmen diese Top-Tier-Kurse für den Test vorzubereiten! ||| Holen Sie sich die besten InfoSec Exam Deals und nehmen Sie die Top-Level-Kurse, um für den Test vorzubereiten!
+2: 0.640 Parallel zum Jahreswachstumsbericht veröffentlicht die Kommission den zweiten Warnmech anismus-Bericht über makroökonomische Ungleichgewichte ( IP/12/1275 ). ||| Neben dem Jahreswachstumsbericht veröffentlicht die Kommission den zweiten Warnmechanismus-Bericht über makroökonomische Ungleichgewichte (siehe IP/12/1275 ).
+2: 0.120 Fliegen auf Ihrem Fahrrad magische Rosa Eimer herum und versuchen, die höchste Punktzahl zu erhalten, indem man große ... ||| Fliegen Sie herum auf Ihrem magischen rosa Eimer Fahrrad und versuchen, die höchste Punktzahl zu erhalten, indem ...
+1: 0.910 Eifersucht ist des Menschen abscheulichste Emotion, finde ich. ||| Für mich ist Eifersucht die abscheulichste Emotion eines Menschen.
+2: 0.128 Auch Skippern , die derzeit noch keine Mitgliedschaft bei SeaHelp erworben haben , wird unkonventionell geholfen , wie Wolfgang Dauser weiter ausführt . ||| Auch Skipper, die die Mitgliedschaft derzeit keine SeaHelp gekauft haben, werden unkonventionell helfen, da Wolfgang Dauser weiter läuft.
+2: 0.000 UK Lottozahlen - Mittwoch 28 September 2016 - Lotterien ||| UK Lottozahlen - Mittwoch 28 September 2016 - Lotterien
+2: 0.510 Kraftstofftanks sind aus Kunststoff, Stahl oder Aluminium erhältlich. ||| Die Kraftstofftanks sind in Kunststoff, Stahl oder Aluminium erhältlich.
+2: 0.000 Preise und Verfügbarkeit American Valley Aida. Dann Buchung fortzufahren. ||| Preise und Verfügbarkeit American Valley Aida. Dann Buchung fortzufahren.
+1: 0.840 Er kleidete sich wie ein Mädchen. ||| Er zog sich wie ein Mädchen an.
+1: 0.292 Wie könnt ihr nur so gelassen sein? ||| Wie können Sie nur so gelassen sein?
+2: 0.360 Jede Definition (zum Beispiel die genaue Definition des Produktdesignphase eines Projekts). ||| Jede Definition (z.B. die genaue Definition der Produktgestaltungsphase eines Projekts).
+1: 0.990 Warum tragt ihr in eurem Heim Krempel aller Art zusammen? ||| Warum sammelt ihr in eurer Wohnung Krempel jeglicher Art?
+2: 0.538 Dies ist der erste Ausbruch einer Ebola-Epidemie, die in der Region registriert wurde. ||| Dies ist der erste Ebola-Virus-Ausbruch in der Region registriert.
+2: 0.130 Weitere Informationen, ga sie. ||| Für weitere Informationen, ga sie.
+1: 0.122 Ich habe Tom gesagt, dass du sicher gerne davon wüsstest. ||| Ich habe Tom gesagt, dass ihr sicher gerne davon wüsstet.
+2: 0.000 Preise und Verfügbarkeit Pirate Cove. Dann Buchung fortzufahren. ||| Preise und Verfügbarkeit Pirate Cove. Dann Buchung fortzufahren.
+1: 0.640 Ich behaupte, dass das nicht stimmt. ||| Ich behaupte, dass das unwahr ist.
+2: 0.910 Das Land erfüllt nach wie vor die politischen Kriterien in ausreichendem Maße. ||| Das Land erfüllt weiterhin ausreichend die politischen Kriterien.
+1: 0.778 Gott helfe dir! ||| Möge Gott dir beistehen!
+2: 0.176 Zuerst berechnen wir den Gesamteinsatz nach der Iteration: ||| Zuerst berechnen wir die Gesamtnutzung der Iteration:
+1: 0.154 Von allen Jungs ist er der größte. ||| Von allen Buben ist er der größte.
+1: 0.910 Tom hat Maria einen Liebesbrief geschrieben, aber er hat ihn nicht abgesandt. ||| Tom schrieb Maria einen Liebesbrief, jedoch ist dieser von ihm nie abgesandt worden.
+2: 0.000 Es bietet die perfekte Saison Kickoff. ||| Es bietet die perfekte Saison Kickoff.
+1: 0.360 Die Krawatte passt nicht zu meinem Anzug. ||| Der Schlips passt nicht zu meinem Anzug.
+1: 0.190 Sie war schöner als alle anderen. ||| Sie war schöner als all die anderen.
+2: 0.122 Ihre E-Mail-Adresse (Ihre E-Mail-Adresse wird nicht veröffentlicht werden. ||| Ihre E-Mail-Adresse (Ihre E-Mail-Adresse wird nicht veröffentlicht.
+2: 0.176 Gayatri auf Biologisch abbaubare Kunststoffe populär ||| gayatri auf biologisch abbaubaren Kunststoffen wurde populär
+2: 0.000 Südafrika Lottoergebnisse - Mittwoch 21 September 2016 ||| Südafrika Lottoergebnisse - Mittwoch 21 September 2016
+1: 0.518 Ist dies auch Wahnsinn, hat es doch Methode. ||| Ist dies schon Tollheit, so hat es doch Methode.
+1: 0.680 Die Tage vergehen im Fluge. ||| Die Zeit vergeht wie im Fluge.
+1: 0.750 Ich bezweifle alles, selbst meine eigenen Zweifel. ||| Ich zweifel an allem, selbst an meinen Zweifeln.
+1: 0.510 Ich gebe fünfzig Reais, wem es gelingt, diesen Ball auf dem Kopf zu balancieren. ||| Ich gebe dem fünfzig Reais, dem es gelingt, diesen Ball auf dem Kopf zu balancieren.
+1: 0.360 Du bist noch kein Teenager. ||| Du bist noch kein Jugendlicher.
+2: 0.680 Möchten Sie einen Hauch von mediterran fühlen und einen unvergesslichen Urlaub in einem der 10… ||| Wenn Sie einen Hauch von Mittelmeer fühlen und verbringen Sie einen unvergesslichen Urlaub in...

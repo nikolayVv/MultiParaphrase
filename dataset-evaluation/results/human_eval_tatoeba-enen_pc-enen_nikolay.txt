@@ -1,0 +1,44 @@
+# Corpus scores
+1: 0.131
+2: 0.283
+# Paraphrase scores
+1: 0.154 Tom and Mary have told John they don't plan on staying at home all day. ||| Tom and Mary have told John they don't plan to stay at home all day.
+1: 0.154 I know that I didn't cause this problem. ||| I know I didn't cause this problem.
+1: 0.000 Where's the entrance to the underground car park? ||| Where is the entrance to the underground car park?
+1: 0.000 I am learning Esperanto very quickly. ||| I'm learning Esperanto very quickly.
+1: 0.154 Who told you that you needed to do that? ||| Who told you you needed to do that?
+2: 0.160 Schematic depiction of Hydroxidapatit implant, with and without peg ||| schematic representation of hydroxidapatite implants, with or without pen peg)
+1: 0.000 It's going to be difficult to find someone to replace Tom. ||| It's going to be difficult to find somebody to replace Tom.
+1: 0.154 Tom couldn't believe that his vacation was over so quickly. ||| Tom couldn't believe his vacation was over so quickly.
+1: 0.154 Tom told me that he thought Mary was amused. ||| Tom told me he thought that Mary was amused.
+1: 0.154 Tom said he thinks I'd be able to win. ||| Tom said that he thinks I'd be able to win.
+2: 0.480 At the show, the team of ARGOS in Hall B1.OG detailed information on stops at the booth C.301 ready. ||| At the fair, the team of ARGOS will provide detailed information on the topic at booth C.301 in hall B1.OG.
+2: 0.154 Previous: empty cosmetic essential oil glass bottle with black press pump 50ml ||| Previous: empty cosmetic essential oil glass bottle with black pressure pump 50ml
+2: 0.302 A seasonal shuttle to La Spezia Station and Harbour can be booked. ||| A seasonal shuttle service to La Spezia Train Station and the port is available.
+2: 0.480 Highly contagious, human to human transmission of Ebola occurs by contact with blood and body fluids. ||| The Ebola virus is highly contagious and transmitted from person to person through simple contact with blood or body fluids.
+2: 0.292 Many employers now use the internet to find out more about applicants. ||| Many employers now use the Internet to learn more about applicants.
+2: 0.227 Help - Sports - Why can I not combine my picks to form a multi (parlay) bet? ||| Help - Sportsbook - Why can't I combine my tips into a combined bet?
+1: 0.122 Has anyone done that? ||| Has anybody done that?
+2: 0.000 1 language school in Calgary, ranging from 1305 CAD to 1305 CAD for a 2 weeks English course including accommodation. ||| 1 language school in Calgary, ranging from 1305 CAD to 1305 CAD for a 2 weeks English course including accommodation.
+2: 0.518 Goal: Practise multiplication until all the cards are gone. ||| Goal: Practice multiplying until all cards have disappeared.
+1: 0.154 Nobody wants Tom here. ||| No one wants Tom here.
+1: 0.190 He's very influential in the world of medicine. ||| He is very influential in the world of medicine.
+2: 0.314 Auditing, research and analysis in order to maintain, protect and improve our services; ||| audits, research and analyses to maintain, protect and improve our services;
+2: 0.250 Relieve brain relax and zamorachivatsya, this desire more often arises in the minds of many people today. ||| Relieving brain relax and zamorachivatsya, this desire often arises in the minds of many people today.
+2: 0.000 Commission for environment, climate change and energy ||| Commission for Environment, Climate Change and Energy
+1: 0.154 Tom vehemently denied he'd done that. ||| Tom vehemently denied that he'd done that.
+1: 0.154 I hope that you're doing your best. ||| I hope you're doing your best.
+1: 0.154 They said that they didn't want me to wait. ||| They said they didn't want me to wait.
+2: 0.302 Please don’t use ‘123456’ or ‘password,’ and avoid using publicly available information like your phone number in your passwords. ||| Please do not use "123456" or "Password" and avoid publicly available information such as your phone number.
+2: 0.000 South Africa LottoPlus numbers - Saturday 23 January 2016 - Lotteries ||| South Africa LottoPlus numbers - Saturday 23 January 2016 - Lotteries
+1: 0.154 There is nothing here. ||| There's nothing here.
+1: 0.154 Tom said that Mary was taller than her sister. ||| Tom said Mary was taller than her sister.
+2: 0.737 Select the public transportation option – the icon of the bus – to get available public transportation directions. ||| Then select the option "Public transport" – the bus symbol – and the routes available by public transport are displayed.
+2: 0.538 Previous World: New Zealand smokers support “bold” action against tobacco ||| back World: Smoking in New Zealand Support "Strong Action Against Tobacco Consumption"
+2: 0.292 Originally involved Germany, Finland and Hungary, for they were extended to Slovenia and Oster Rich. ||| Originally involved Germany, Finland and Hungary, because they were expanded to Slovenia and Easter rich.
+2: 0.190 Muria Puama is an herb from a shrub native to Brazil, otherwise known as "Potency Wood". ||| Muria Puama is a herb from a shrub, also known in Brazil as Potency Wood.
+2: 0.230 Global Distribution Systems (GDS) are the reservation systems used by travel agents to book their air, hotel and car reservations. ||| Global Distribution Systems (GDS) are the booking systems used by travel agencies to book their air, hotel and car.
+1: 0.154 I know that Tom didn't know we knew how to do that. ||| I know Tom didn't know we knew how to do that.
+1: 0.154 It's hot. ||| It is hot.
+1: 0.154 I can't remember all my passwords, so I write them all down in a notebook I keep hidden where I don't think that anybody can find it. ||| I can't remember all my passwords, so I write them all down in a notebook that I keep hidden where I don't think that anybody can find it.
+2: 0.190 (e) any relevant previous infringements by the controller or processor; ||| (e) any relevant previous infringements of the controller or processor;

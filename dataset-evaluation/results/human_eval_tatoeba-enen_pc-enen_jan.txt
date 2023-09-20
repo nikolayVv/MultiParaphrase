@@ -1,0 +1,44 @@
+# Corpus scores
+1: 0.270
+2: 0.225
+# Paraphrase scores
+2: 0.292 In Division Beta, the distances were sometimes even lower. ||| In the Beta division, the distances were sometimes even smaller.
+2: 0.413 One version is that there is absolutely no exclusionary strength, and other agreements insisted on at least stop for two ytterdragter. ||| One version is that there is absolutely no excluding force, and other agreements insisted on stopping at least for two ytterdragter.
+2: 0.000 Airline distance to the sea: 4500 m ||| Airline distance to the sea: 4500 m
+1: 0.640 You can write a sentence in many ways and still keep the general message intact. ||| There are lots of ways to write a sentence and still keep the general message intact.
+1: 0.360 I'm married, you're married, let's get married! ||| I am married, you are married, let's get married!
+2: 0.000 If somehow you have problems with the game The tractor from the farm try these solutions: ||| If somehow you have problems with the game The tractor from the farm Try these solutions:
+2: 0.000 Australia Saturday Lotto numbers - 23 July 2016 - Lotteries ||| Australia Saturday Lotto numbers - 23 July 2016 - Lotteries
+1: 0.510 What's the best way to get in touch with you? ||| What's the best way to contact you?
+2: 0.128 Like all trucks in our premium range, the Volvo FL has been through the strictest of safety tests. ||| Like all vehicles from our premium range, the Volvo FL has also completed the most stringent safety tests.
+2: 0.230 Great gameplay controls 2 thumbs are very intuitive for players, improving performance. ||| Great gameplay controls 2 thumbs are very intuitive for players to improve performance.
+2: 0.360 The following documentation is normally required for a proper system of control. ||| The following documentation is usually required for a proper control system.
+1: 0.190 Tom told me that I should do that soon. ||| Tom told me I should do that soon.
+1: 0.190 Tom and Mary said that they spoke French last week. ||| Tom and Mary said they spoke French last week.
+1: 0.190 Tom said he wasn't having fun. ||| Tom said that he wasn't having fun.
+2: 0.360 The route was short but very winding. ||| The path was short, but very winding.
+2: 0.190 Click here to order Phen24 from the official website » ||| Click here to order the Phen24 from the official website »
+1: 0.190 Everyone here except you is from Australia. ||| Everybody here except you is from Australia.
+2: 0.640 Therefore we take it even as an example. ||| That is why we take it as an example.
+2: 0.360 In this stage, you play against all the teams (3) in your group. ||| In this phase you play against all teams (3) in your group.
+1: 0.360 It's the sort of thing Tom would do. ||| It's the kind of thing Tom would do.
+2: 0.128 Almost everyone who uses int ... ||| Almost everyone, Int used ...
+1: 0.190 Mary knows that all she has to do is snap her fingers and Tom will come running. ||| Mary knows all she has to do is snap her fingers and Tom will come running.
+2: 0.360 Home Insurance will be added when the repayment is less than 20%. ||| Home Insurance will be added if the repayment is less than 20%.
+2: 0.230 Even today, however, the balance uncertain. ||| Even today, but the balance is uncertain.
+1: 0.190 Tom knows we trust Mary. ||| Tom knows that we trust Mary.
+1: 0.190 I know that Tom is in his room packing his suitcase. ||| I know Tom is in his room packing his suitcase.
+1: 0.190 I know that Tom doesn't know why Mary couldn't do that. ||| I know Tom doesn't know why Mary couldn't do that.
+1: 0.360 That isn't the only thing Tom did. ||| That's not the only thing Tom did.
+1: 0.292 I wonder whether there's a chance Tom will help us. ||| I wonder if there's a chance that Tom will help us.
+1: 0.190 It's not something I want to discuss. ||| It isn't something that I want to discuss.
+1: 0.190 I thought Tom had already been compensated for that. ||| I thought that Tom had already been compensated for that.
+1: 0.190 I know that Tom is a heavy sleeper. ||| I know Tom is a heavy sleeper.
+2: 0.000 Thailand tourism »About Thailand Travel ||| Thailand tourism »About Thailand Travel
+1: 0.190 Tom said he had to do that by himself. ||| Tom said that he had to do that by himself.
+2: 0.176 About Croatia Geographical information Croatia Climate Croatia National items Croatia ||| About Croatia Geographical information Croatia Climate Croatia National license plates Croatia
+2: 0.000 The matching ‘ for this string is missing. ||| The matching 'for this string is missing.
+2: 0.122 Can I Breastfeed more than one baby at once ||| Can I breastfeed you more than one baby at a time
+2: 0.510 Both layers include all transport modes: road, rail, air, inland waterways and maritime transport, as well as intermodal platforms. ||| Both levels include all modes of transport: road, rail, air, inland waterway and maritime transport, and intermodal platforms.
+1: 0.413 What is Tom's GPA? ||| What's Tom's grade point average?
+1: 0.190 I hope that you have a lot of fun. ||| I hope you have a lot of fun.

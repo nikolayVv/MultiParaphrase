@@ -1,0 +1,38 @@
+# Corpus scores
+1: 0.015
+2: 0.271
+# Paraphrase scores
+2: 0.413 Ob posodobitvi bodo spremembe spojene. ||| Spremembe bodo združene ob posodobitvi.
+1: 0.000 V záhrade rastie veľa pŕhľavy. ||| V záhrade rastie veľa žihľavy.
+1: 0.000 Hlupák! ||| Blbec!
+2: 0.093 A: Trenutno uporabljamo flairs za pisarne. ||| O: Trenutno uporabljamo čustva za pisarne.
+2: 0.154 Kot Gambero Rosso tako lepo piše: "Gaja je in ostaja največji." ||| Kot piše Gambero Rosso tako lepo: "Gaja je in ostaja največja."
+1: 0.000 Hovorím rusky. ||| Hovorím po rusky.
+2: 0.270 ali načrtovanju novih poti potovali. ||| ali načrtovati nove poti, ki jih je treba potovati.
+1: 0.000 Dumam, že nám treba viacej jedenia. ||| Myslím, že nám treba viacej jedenia.
+1: 0.000 Máte radi búrky? ||| Máte rady búrky?
+2: 0.360 Naslednje sestavine so navedene v D-Bal: ||| Naslednje sestavine najdete v D-Bal:
+1: 0.000 Mrzí ma, že to takto dopadlo. ||| Je mi ľúto, že to takto dopadlo.
+2: 0.000 Južna Afrika Powerball loterije številke - petek 30 oktober 2015 ||| Južna Afrika Powerball loterija številke - petek 30 oktober 2015
+2: 0.128 â € ¢ prilagodljivi izbrani čistim: napadalec lahko določi cyphertext o izbranih plaintexts v interaktivnem / ponavljajočega se procesa, ki temelji na predhodnih rezultatih. ||| • adaptivno izbrana vrstica: napadalec lahko določi šifro izbranih vrstic v interaktivnem/iterativnem procesu, ki temelji na prejšnjih rezultatih.
+2: 0.102 To je igra, ki omogoča medsebojno povezovanje različnih akterjev skozi mehanizem sprejemanja vlog. ||| To je igra, ki omogoča povezovanje več igralcev z mehanizmom, ki sprejema vloge.
+2: 0.640 Nato pa je (spet) splezala za Albertom po stopnicah čisto na vrh do lučk. ||| Nato (znova) je splezala po stopnicah za Albertom do razsvetljave na vrhu.
+2: 0.680 Je bil moj zadnji stolpec cikel 8 tednov dolgo. ||| Moj cikel je trajal 8 tednov.
+2: 0.134 Vpliv podnebnih sprememb se v Alpah kaže tako v sestavi permafrosta, ki povezuje skalovje, kot v količini in kakovosti zapadlega snega. ||| Podnebne spremembe vplivajo na Alpe od sestave permafrosta, ki drži skale skupaj, do volumena in kakovosti snega.
+2: 0.737 Bančni sektor EU, ki sta ga spodbudila enotna valuta in enotni trg, se je povečal in postal vedno bolj celovit. ||| Bankovni sektor EU je okrepil enotno valuto in enotni trg ter postal vse bolj integriran.
+2: 0.000 4 stvari, ki jih ženske želijo: ||| 4 stvari, ki jih ženske želijo:
+2: 0.230 Kakor da ne bi pričakovali, da bo spet delala za njih. ||| Kot da ne bi pričakovali, da bo spet delala zanje.
+2: 0.480 Nadzor poln blago nakupovalni voziček, while going down a steep hill . ||| Nadzorujte nakupovalno košarico polno blaga, medtem ko gredo po strmem hribu.
+1: 0.000 Myslím, že Tom je do teba zaľúbený. ||| Myslím, že Tom je do teba zamilovaný.
+1: 0.000 Myslím, že Tom je do teba zaľúbený. ||| Myslím, že Tom je do teba zamilovaný.
+1: 0.000 Počul som, že sa Tom oženil. ||| Počula som, že sa Tom oženil.
+2: 0.326 Indeks kaže relativne moči, včasih bolj jasno, kot se cena, raven podpore in odpora. ||| Relativni indeks moči kaže, včasih bolj jasno kot cena sama, ravni podpore in odpornosti.
+1: 0.000 Máte radi búrky? ||| Máte rady búrky?
+1: 0.000 Hlupák! ||| Blbec!
+1: 0.190 To je moja žena. ||| Ona je moja žena.
+2: 0.000 Kopanje v nebo, Ultramarin. ||| Kopel na nebu, ultramarin.
+2: 0.230 Plačilo bo usklajeno z načinom in dinamiko plačil na naših spletnih straneh. ||| Plačilo bo enako načinu plačila in dinamiki, objavljeni na naših straneh.
+1: 0.000 Mám veľa oviec. ||| Mám mnoho oviec.
+1: 0.017 Moja mačka je lačna. ||| Moja mačka je hladná.
+2: 0.188 Vse, kar še pride, I načrt za potovanje preko Garda… enkrat. ||| Vse še prihaja. Enkrat nameravam preleteti Gardo.
+2: 0.250 Treba je opredeliti področja, za sajenje dreves. Mi smo o prihodnji večletni nasadi fermarama. ||| Moramo identificirati območja za zasaditev dreves. Mi smo polaganje prihodnjih sadovnjakov fermarama.

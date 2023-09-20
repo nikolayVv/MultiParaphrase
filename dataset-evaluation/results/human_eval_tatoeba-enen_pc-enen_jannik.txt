@@ -1,0 +1,44 @@
+# Corpus scores
+1: 0.368
+2: 0.413
+# Paraphrase scores
+2: 0.250 Cheap apartment rental in Valun, up to 5 persons. ||| Cheap apartment in Valun, up to 5 people.
+1: 0.510 Everyone here knows Tom is in Boston. ||| Everybody here knows Tom is in Boston.
+1: 0.360 I am ashamed. ||| I'm ashamed.
+2: 0.413 9 most stressful American jobs 2018. ||| 9 most strenuous American jobs 2018.
+2: 0.412 All reservations for 1. September 2014 is canceled. ||| All bookings for September 1, 2014 will be canceled.
+2: 0.000 The foam leaves your hands moisturized and protected. ||| The foam leaves your hands moisturized and protected.
+2: 0.227 15. May 2008 Comments Off on Société Nautique de Genève requires clarity concerning Appellate Division at the America's Cup Match ||| 15. May 2008 Comments Off on Société Nautique de Genève demands clarity regarding America-Cup match at appeal department
+2: 0.292 Learning and the Story of Stories To Children. ||| Learning and the story of stories for children.
+2: 0.910 So make a quote and save up to 50% on car rental in New Zealand ||| Save up to 50% on rental cars in New Zealand
+1: 0.510 I don't think I'd like being married to Tom. ||| I don't think that I'd like being married to Tom.
+2: 0.510 Read about Pari Hostel in English Read about Pari Hostel in Czech Read about Pari Hostel in Chinese ||| Read more about Pari Hostel in English Read more about Pari Hostel in Czech Read more about Pari Hostel in Chinese
+1: 0.640 I think that Tom is expecting somebody. ||| I think Tom is expecting someone.
+2: 0.582 Deviations of the compass direction from the normal? ||| Deviations of the direction of the sky from the normal?
+2: 0.000 Hotel Chambord - Search for free rooms and guaranteed low rates in Menton and book your stay at hotel Hotel Chambord ||| Hotel Chambord - Search for free rooms and guaranteed low rates in Menton and book your stay at hotel Hotel Chambord
+2: 0.000 Below is the list of Maritime Universities in Ukraine: ||| Below is the list of Maritime Universities in Ukraine:
+2: 1.000 The Court's judgements are majority decisions and are read out at public hearings. ||| The judgments of the Court shall be decided by a majority of the votes cast and shall be delivered in public meetings.
+1: 0.190 Tom said that it was Mary who told him he needed to do that. ||| Tom said that it was Mary who told him that he needed to do that.
+1: 0.360 Tom hopes that Mary will forgive him. ||| Tom hopes Mary will forgive him.
+2: 0.292 The flag of the Union shall be a circle of twelve golden stars on a blue background. ||| The flag of the Union represents a circle of twelve golden stars on a blue background.
+2: 0.000 Cheap hotels, hotel bookings, holiday reservations in Azay Le Rideau, France and more ||| Cheap hotels, hotel bookings, holiday reservations in Azay Le Rideau, France and more
+1: 0.360 Tom said he didn't like cats. ||| Tom said that he didn't like cats.
+1: 0.360 I thought Tom might be thirsty. ||| I thought that Tom might be thirsty.
+2: 1.000 Now, the Council can seal the deal shortly. ||| The Council will now be able to confirm this outcome shortly.
+1: 0.360 I know that Tom can swim better than I can. ||| I know Tom can swim better than I can.
+2: 0.176 File format output depending on the type of controller can vary , But the idea is similar . ||| File format performance depending on the type of control may vary, but the idea is similar.
+1: 0.360 Tom and Mary told everyone that they were bored. ||| Tom and Mary told everyone they were bored.
+1: 0.190 Koalas are not bears. ||| Koalas aren't bears.
+2: 0.910 Europe's intellectual property regime needs to be modernised. ||| The copyright system in Europe needs to be modernised.
+1: 0.640 I don't think that anybody really wants to do that. ||| I don't think anyone really wants to do that.
+1: 0.360 Tom thinks he loves Mary more than John loves Alice. ||| Tom thinks that he loves Mary more than John loves Alice.
+1: 0.360 I don't think Tom knows where Mary is now. ||| I don't think that Tom knows where Mary is now.
+2: 1.000 Once again this year the 32nd German Literature Days will be media savvy. ||| The 32nd days of German-language literature will again be processed in a media-effective way this year.
+1: 0.360 Tom said he had to share a hotel room with a stranger. ||| Tom said that he had to share a hotel room with a stranger.
+2: 0.000 The accommodation Apartments Magdalena 44041-A1 has a total surface of 80 m2. It is on the first floor. ||| The accommodation Apartments Magdalena 44041-A1 has a total surface of 80 m2. It is on the first floor.
+2: 0.292 Now is the opportunity to acquire a well-established camping at Holm Sea ||| Now is the opportunity to acquire a well-established camping on the Holm Sea
+1: 0.360 Tom and Mary said they plan to do that Monday. ||| Tom and Mary said that they plan to do that Monday.
+1: 0.360 Tom said he expects to do that on Monday. ||| Tom said that he expects to do that on Monday.
+1: 0.000 Sami baptized his children. ||| Sami baptised his children.
+1: 0.360 I didn't think anybody could've stopped Tom. ||| I didn't think anyone could've stopped Tom.
+1: 0.360 Nobody knows what's become of Tom. ||| No one knows what's become of Tom.

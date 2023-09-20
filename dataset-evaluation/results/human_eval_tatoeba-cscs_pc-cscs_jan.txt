@@ -1,0 +1,44 @@
+# Corpus scores
+1: 0.210
+2: 0.189
+# Paraphrase scores
+2: 0.412 Když kliknete na tlacítko '?' v levé horní cásti herního displeje, zobrazí se pravidla hry. ||| Kliknutím na tlačítko 'Game logs' zobrazíte záznamy her, které jste hráli.
+1: 0.190 Zelená ti sedne. ||| Zelená ti padne. 
+2: 0.154 Řešením tohoto problému je: umělé žraločí kůže. ||| Řešením problému je: umělá žraločí kůže.
+2: 0.230 Příčinou toho je ekonomická stagnace zejména námořní a průmyslové ekonomiky, zatímco turistické ekonomiky zaznamenán nárůst. ||| Příčinou je hospodářská stagnace zejména námořní a průmyslové ekonomiky, zatímco cestovní hospodářství zaznamenalo nárůst.
+1: 0.292 Takový dům nebude lehké prodat. ||| Nebude to jednoduché, prodat takovýto dům. 
+1: 0.030 Viděl jsem jej umřít. ||| Viděl jsem ho zemřít. 
+2: 0.176 – Distribuované řízení adresář: mohou být globální nebo lokální na každém místě, centralizované nebo distribuované na více místech, jednoho či více kopií. ||| Distribuované správy adresářů: může být globální nebo místní na každé stránce, centralizovaný nebo distribuován přes více stránek, jedno nebo více kopií.
+1: 0.292 Noc před naší svatbou měla románek s mým nejlepším kamarádem. ||| Noc před naší svatbou měla milostné dobrodružství s mým nejlepším přítelem. 
+1: 0.190 Moje sestra je podobná mé babičce. ||| Má sestra se podobá mé babičce. 
+2: 0.292 Když kliknete na QUICK DEPOSIT na dolní liště, můžete provést platbu na svůj účet. ||| Klikněte na QUICK DEPOSIT na spodním baru a vložte peníze na váš účet.
+1: 0.190 Půjčil jsem Tomu hřeben. ||| Půjčil jsem si Tomův hřeben. 
+1: 0.122 Dnes jsou babiččiny narozeniny. ||| Dnes má babička narozeniny. 
+1: 1.000 Hladuju. ||| Hladovím. 
+1: 0.190 Nemůžu takhle žít. ||| Takhle žít nemůžu. 
+1: 0.190 Já hodně krkám. ||| Hodně si ukrkávám. 
+2: 0.326 Politické směry předsedy Komise Junckera, najejichž základě Parlament zvolil touto Komisí, přinesly jasný závazek zlepšovat právní úpravu. ||| Politické pokyny předsedy Junckera, na jejichž základě Parlament zvolil tuto Komisi, se jasně zavázaly k lepší regulaci.
+1: 0.154 On není hladový. ||| On nemá hlad. 
+2: 0.090 To, co se zdá být v Smith & amp; Wesson Model 60 používaný pro pozůstalé hráč hraje ruskou ruletu v „Collateral Massacre“. ||| Co se zdá být v Smith & amp; Wesson Model 60 používá přeživší hráč hrající ruskou ruletu v "Collateral Massacre."
+1: 0.130 Nenávidím a miluji. Proč tak činím, možná se ptáš? Nevím, cítím však, že je to tak, a sebe trýzním. ||| Nenávidím a miluji. Proč, tak možná se tážeš. Nevím, cítím však, že se tomu děje, a mučím se. 
+2: 0.068 Autoři nejlepších příběhů budou pozváni na slavnostní předání cen do Bruselu v květnu 2011 u příležitosti oslav Dne Evropy. ||| Autoři nejlepších příběhů budou pozváni do Bruselu na slavnostní ceremoniál kolem Dne Evropy v květnu 2011. Viz:
+2: 0.190 Ne programátor ji nemůže uniknout nicméně: svět vyžaduje rychlost, nebo poněkud ekvivalent moderní opatření, delší životnost baterie. ||| Žádný programátor však nemůže uniknout: svět vyžaduje rychlost, nebo poněkud rovnocenné moderní opatření, delší životnost baterie.
+1: 0.190 Naučil jsem Marii péct chleba. ||| Naučil jsem Marii péci chléb. 
+2: 0.176 13 Neb víte, že s mdlobou těla kázal jsem vám evangelium ponejprve. ||| 13 Víte, jak jsem vám skrze neduhy těla kázal evangelium na počátku.
+1: 0.190 Toto jablko je kyselé. ||| Tohle jabko je kyselý. 
+1: 0.154 Jsem zamilovaný do Tomovo přítelkyně. ||| Jsem zamilován do Tomovy dívky. 
+2: 0.154 • Poskytuje kasinové hry podle toho, co počítač sportovní recenze. ||| • Poskytuje kasinové hry podle toho, jaké počítačové spor recenze.
+2: 0.154 Bez ohledu na některý z výše uvedených důvodů, pokud budete potřebovat doplněk k růstu chloupků (který obsahuje pouze přírodní složky), pak můžete zkusit pomocí Folexin. ||| Bez ohledu na některý z výše uvedených důvodů, pokud potřebujete doplněk růstu vlasů (který obsahuje pouze přírodní složky), pak můžete zkusit použít Folexin.
+2: 0.000 Online hry diskutovat o politickou budoucnost ||| Online hry diskutovat o politické budoucnosti
+2: 0.154 Mluvili jsme, Smáli jsme se a spěchal dál, každý ve svém vlastním směrem. ||| Povídali jsme si, smáli jsme se a šlápli na to, každý svým směrem.
+2: 0.154 Je-li svědění není spojena s žádným zdravotním stavu, pak jednoduché domácí opravné prostředky nebo over-the-counter řešení mohou poskytnout úlevu. ||| Pokud svědění není spojena s žádným zdravotním stavem, pak jednoduché domácí opravné prostředky nebo over-the-counter řešení mohou poskytnout úlevu.
+1: 0.190 Jakým mluvíš jazykem? ||| Jakýmpak to mluvíš jazykem? 
+2: 0.190 CharterCheck začíná distribuce palandami pro Midsummer Eventu 2014 ||| CharterCheck začíná distribuci palandy pro Midsummer Event 2014
+1: 0.122 Nemůžu si dovolit mít auto. ||| Nemůžu si dovolit vydržovat auto. 
+2: 0.000 Předsedou Účetního dvora je zvolen Aldo Angioi. ||| Předseda Účetního dvora je zvolen Aldo Angioi.
+2: 0.122 Nadace má tripartitní správní radu, která se skládá ze zástupců veřejných orgánů (vlád a Evropské komise), organizací zaměstnavatelů a odborových organizací. Ředitel: ||| Nadace má třístrannou správní radu složenou ze zástupců veřejných orgánů (vlády a Evropská komise), organizací zaměstnavatelů a odborů.
+2: 0.326 Zasedání Rady se pravidelně účastní zástupci polského státu (podle příslušné oblasti politiky). ||| Zasedání Rady se pravidelně účastní zástupci polské vlády, v závislosti na tom, jaká oblast politiky je řešena.
+1: 0.190 Úspěch se odvíjí od úsilí. ||| Úspěch závisí na úsilí. 
+1: 0.000 Tancoval s ní. ||| Tančil s ní. 
+1: 0.190 Jsem tvoje minulost. ||| Jsem Tvá minulost. 
+2: 0.413 Nevím proč se to stane, Nejlepším řešením je jednoduše potlačit chybu pomocí PHP znak @ směrnici ||| Donné vědět, proč se to stane, nejlepší sázka je jednoduše potlačit chybu pomocí phpédéje @ směrnice
