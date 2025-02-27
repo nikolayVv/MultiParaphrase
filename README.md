@@ -1,7 +1,8 @@
 # Multillingual paraphrasing of sentences
 
-This project compares and evaluates monolingual paraphrasing of English, German, Czech, and Slovene sentences, along with multilingual paraphrasing across these languages. Monolingual datasets are generated and evaluated using human evaluation. By comparing their scores with the scores of existing monolingual datasets, we estimate their quality. The models, on the other hand, are evaluated using the metric Parascore, which helps us analyse the effectiveness of each model for each language. This way we discover the advantages and disadvantages that come with using a mono- or multilingual dataset and training for multilingual paraphrasing of sentences.
+This project explores monolingual and multilingual paraphrasing across English, German, Czech, and Slovene, evaluating whether multilingual training improves paraphrase generation. Due to the lack of paraphrase datasets for low-resource languages, we generated monolingual datasets via back-translation and trained mT5 models both monolingually and multilingually.
 
+Our results show that monolingual models performed best in their respective languages (Parascore: 0.89–0.96), while multilingual models balanced performance across languages—improving Slovene but slightly reducing English accuracy. Human evaluation confirmed that our datasets offer better lexical diversity than Tatoeba but include more noise.
 
 ## Data
 
